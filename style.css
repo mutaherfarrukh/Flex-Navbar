@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+
+#logo{
+    display: inline-block;
+    font-size: 30px;
+    width:50%;
+    height:100%;
+    color: white;
+
+}
+nav{
+    align-items: center;
+    background-color: rgb(97, 97, 97);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    margin: 0px;
+    background-color: rgb(97, 97, 97);
+    border: 0px;
+    color: white;
+    font-size: medium;
+    
+
+}
+#rightSide{
+    width:50%;
+    height: 100%;
+    display: contents;
+    border:2px solid black;
+}
+
+
+.loginbtn{
+    margin-right: 30PX;
+    background-color: rgb(65, 173, 236);
+    color: white;
+    padding: 4px;
+    border: 2px solid black;
+
+}
